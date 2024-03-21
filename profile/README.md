@@ -1,3 +1,3 @@
 # Papua Open Source
 
-Open Source Movement for Papua
+Kontribusi berbasis Open Source untuk Papua yang Lebih Baik!
